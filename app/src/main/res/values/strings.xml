@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Torch Shake</string>
+
+    <string name="torch_on">TURN ON</string>
+    <string name="torch_off">TURN OFF</string>
+    <string name="no_flash">This device has no flashlight</string>
+
+    <string name="mode_label">Mode</string>
+    <string name="mode_normal">Normal</string>
+    <string name="mode_blink">Blink</string>
+
+    <string name="speed_label">Blink speed</string>
+    <string name="speed_fast">Fast</string>
+    <string name="speed_medium">Medium</string>
+    <string name="speed_slow">Slow</string>
+
+    <string name="shake_title">Shake to toggle torch</string>
+    <string name="shake_hint">Chop the phone twice. Works with the screen off while the app\'s notification is showing.</string>
+    <string name="sensitivity_label">Shake sensitivity: %1$d%%</string>
+    <string name="battery_tips">Battery settings (keep it alive)</string>
+
+    <string name="channel_name">Shake listener</string>
+    <string name="notif_title">Shake to torch is on</string>
+    <string name="notif_text">Chop the phone twice to toggle the torch</string>
+    <string name="stop">Stop</string>
+</resources>
